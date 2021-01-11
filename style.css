@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("file:///C:/Users/tusha/OneDrive/Desktop/Personal%20Portfolio%20Website/images/dhoni.jpg") no-repeat center;
+    background-color:black;
     height: 100vh;
     color:yellow;
     min-height: 500px;
